@@ -1,4 +1,4 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]([https://www.linkedin.com/in/ChrisRackauckas/](https://www.linkedin.com/in/tim-bode-808b54149/))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tim-bode-808b54149/)
 
 I'm currently a [postdoc](https://www.fz-juelich.de/profile/bode_t) at the [Institute for Quantum Computing Analytics](https://www.fz-juelich.de/en/pgi/pgi-12) (PGI-12) at [Forschungszentrum Jülich](https://www.fz-juelich.de/en).
 
